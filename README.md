@@ -15,8 +15,7 @@ Else
 
 
 Progress Tsuki
-
-	[ ] Complete tab/
+	- [ ] Complete tab/
 
 Else
 
